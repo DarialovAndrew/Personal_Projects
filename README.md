@@ -1,1 +1,1 @@
-This repository consists of my pet-projects and programming assignments.
+This repository hosts some of my pet-projects and programming assignments.
